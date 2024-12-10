@@ -1,0 +1,6 @@
+#
+# test les commandes simples avec redirection entrée et sortie
+#
+ls -al > f1
+cat f1
+cat < f1 > f2

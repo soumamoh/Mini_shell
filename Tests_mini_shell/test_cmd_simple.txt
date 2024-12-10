@@ -1,0 +1,5 @@
+#
+# test les commandes simples suivantes
+#
+ls -al
+cat Makefile    

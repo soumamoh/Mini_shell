@@ -1,0 +1,12 @@
+total 136
+drwxr-xr-x 2 soumamoh soumamoh  4096 mars   5 13:42 .
+drwxr-xr-x 4 soumamoh soumamoh  4096 mars   5 14:11 ..
+-rw-r--r-- 1 soumamoh soumamoh 24035 févr. 15  2018 csapp.c
+-rw-r--r-- 1 soumamoh soumamoh  6621 févr. 15  2018 csapp.h
+-rw-r--r-- 1 soumamoh soumamoh     0 mars   5 14:23 f1
+-rw-r--r-- 1 soumamoh soumamoh     2 mars   5 14:18 f2
+-rwxr-xr-x 1 soumamoh soumamoh   484 févr. 23 04:02 Makefile
+-rwxr-xr-x 1 soumamoh soumamoh  4690 févr. 15  2018 readcmd.c
+-rwxr-xr-x 1 soumamoh soumamoh  1020 févr. 15  2018 readcmd.h
+-rwxrwxr-x 1 soumamoh soumamoh 71384 mars   5 02:27 shell
+-rw-rw-r-- 1 soumamoh soumamoh  3547 mars   5 02:27 shell.c

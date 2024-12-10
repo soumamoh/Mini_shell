@@ -1,0 +1,9 @@
+#
+# test gestion d'erreurs
+#
+cat < 
+cat >
+unknown
+cd UnknownDir
+cat < unknownFile
+cat unknownFile

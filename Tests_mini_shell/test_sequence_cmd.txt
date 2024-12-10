@@ -1,0 +1,6 @@
+#
+# test sequence de commandes avec redirection et pipes
+#   
+ls
+cat < f1 | grep shell | wc -l > f2
+cat f2
